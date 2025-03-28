@@ -1,26 +1,17 @@
-# Microsoft 365 Copilot & Agents
-
-# *Ressources pour les partenaires*
+# Microsoft 365 Copilot & Agents <BR> *Ressources pour les partenaires*
 
 🔗 https://aka.ms/CopilotAgentAcademy
 
 ## Sommaire
 - [M365 Copilot / M365 Copilot Chat](#m365-copilot--m365-copilot-chat)
-    - [Présenter M365 Copilot & M365 Copilot Chat](#présenter-m365-copilot--m365-copilot-chat)
-    - [Démontrer M365 Copilot & M365 Copilot Chat](#démontrer-m365-copilot--m365-copilot-chat)
-    - [Implémenter & monter en compétences](#implémenter--monter-en-compétences)
 - [Microsoft Copilot Studio](#microsoft-copilot-studio)
-    - [Présenter Microsoft Copilot Studio](#présenter-microsoft-copilot-studio)
-    - [Monter en compétences sur Microsoft Copilot Studio](#monter-en-compétences-sur-microsoft-copilot-studio)
-    - [Outils pour implémenter](#outils-pour-implémenter)
 - [Teams Toolkit & Teams AI Library](#teams-toolkit--teams-ai-library)
-    - [Monter en compétences sur Teams Toolkit](#monter-en-compétences-sur-teams-toolkit)
-    - [Développer avec Teams Toolkit & Teams AI Library](#développer-avec-teams-toolkit--teams-ai-library)
 - [Azure AI Foundry](#azure-ai-foundry)
-    - [Liens utiles sur Azure AI Foundry](#liens-utiles-sur-azure-ai-foundry)
-    - [Monter en compétences sur Azure AI Foundry](#monter-en-compétences-sur-azure-ai-foundry)
+
+---
 
 ## M365 Copilot / M365 Copilot Chat 
+
 ### Présenter M365 Copilot & M365 Copilot Chat
 
 |      | Description 📄                      | Lien 🔗                                                       |
@@ -50,7 +41,8 @@
 | 🦮    | Implementation guide                                         | https://adoption.microsoft.com/copilot/success-kit/          |
 | 📹    | Comprendre l’architecture de M365  Copilot / Copilot Chat - Follow the  prompt ! | https://ignite.microsoft.com/sessions/BRK273                 |
 | 🦮    | Guide de l’extensions de M365 Copilot /  Copilot Chat        | https://learn.microsoft.com/microsoft-365-copilot/extensibility/decision-guide |
-| 📊    | Suivi de l’usage et de l’adoption de  Copilot                | Administrateurs M365 :  https://learn.microsoft.com/microsoft-365/admin/activity-reports/activity-reports     Utilisateurs : https://learn.microsoft.com/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption |
+| 📊    | Suivi de l’usage et de l’adoption de  Copilot                | - *Administrateurs M365* :  https://learn.microsoft.com/microsoft-365/admin/activity-reports/activity-reports <br> - *Utilisateurs* : https://learn.microsoft.com/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption |
+---
 
 ## Microsoft Copilot Studio
 
@@ -62,7 +54,7 @@
 | 👩‍🏫   | Supports de présentation | https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio |
 | 🗺️    | Roadmap Copilot Studio   | https://releaseplans.microsoft.com/?app=Microsoft+Copilot+Studio |
 | 💰    | Pricing tools            | https://learn.microsoft.com/microsoft-copilot-studio/requirements-messages-management |
-| 📖    | Pricing Guide            | Messages :      - https://learn.microsoft.com/microsoft-copilot-studio/billing-licensing     - https://go.microsoft.com/fwlink/?linkid=2085130     PAYG : https://azure.microsoft.com/pricing/details/copilot-studio |
+| 📖    | Pricing Guide            | *Messages* : <br> - https://learn.microsoft.com/microsoft-copilot-studio/billing-licensing <br> - https://go.microsoft.com/fwlink/?linkid=2085130 <br> *PAYG* : https://azure.microsoft.com/pricing/details/copilot-studio |
 
 ### Monter en compétences sur Microsoft Copilot Studio
 
@@ -93,6 +85,8 @@
 | 🌟    | Microsoft Power Platform icons                  | https://aka.ms/icon/powerplatform      |
 | 🌟    | Microsoft Power Platform icons +  Copilot       | https://aka.ms/icon/powerplatform/prez |
 
+---
+
 ## Teams Toolkit & Teams AI Library 
 
 ### Monter en compétences sur Teams Toolkit
@@ -113,6 +107,8 @@
 | 🛠️    | Tuto de création d’un Custom Engine  Agent    | https://learn.microsoft.com/microsoftteams/platform/teams-ai-library-tutorial     https://learn.microsoft.com/microsoftteams/platform/sbs-teams-ai |
 | 🧑‍💻   | Hands on Lab Créer un DA pour M365  Copilot   | https://github.com/microsoft/MCAPSTechConnect25-lab-910      |
 | 🧑‍💻   | Hands on Lab Créer un CEA pour M365  Copilot  | https://github.com/microsoft/MCAPSTechConnect25-lab-911      |
+
+---
 
 ## Azure AI Foundry
 
