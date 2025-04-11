@@ -73,7 +73,8 @@
 | 🧪    | Try Copilot Studio                  | https://aka.ms/TryCopilotStudio                           |
 | 🛠️    | Power CAT Copilot Studio Kit        | https://aka.ms/CopilotStudioKit                           |
 | 📂    | Microsoft Copilot Studio Samples    | http://aka.ms/CopilotStudioSamples                        |
-|      | Environnement de développement      | https://aka.ms/M365DevPlan / https://youtu.be/NDeYE-qE9Qs |
+| 🛠️    | Environnement de développement      | https://aka.ms/M365DevPlan / https://youtu.be/NDeYE-qE9Qs |
+| 🔌    | Les connecteurs Power Platform      | https://aka.ms/ppc                                        |
 
 ### Et des icones pour faire de beaux schémas
 
