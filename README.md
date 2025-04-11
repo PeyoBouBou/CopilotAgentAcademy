@@ -105,9 +105,10 @@
 | ---- | --------------------------------------------- | ------------------------------------------------------------ |
 | 🧰    | Quick Start Guide pour développer des  agents | [https://learn.microsoft.com/microsoftteams/platform/bots/how-to/teams-conversational-ai/conversation-ai-quick-start](https://learn.microsoft.com/en-gb/microsoftteams/platform/bots/how-to/teams-conversational-ai/conversation-ai-quick-start) |
 | 🛠️    | Tuto de création d’agent déclaratif           | [https://learn.microsoft.com/](https://learn.microsoft.com/microsoft-365-copilot/extensibility/build-declarative-agents)[microsoft-365-](https://learn.microsoft.com/microsoft-365-copilot/extensibility/build-declarative-agents)[c](https://learn.microsoft.com/microsoft-365-copilot/extensibility/build-declarative-agents)[opilot](https://learn.microsoft.com/microsoft-365-copilot/extensibility/build-declarative-agents)[/extensibility/](https://learn.microsoft.com/microsoft-365-copilot/extensibility/build-declarative-agents)[build-declarative-agents](https://learn.microsoft.com/microsoft-365-copilot/extensibility/build-declarative-agents) |
-| 🛠️    | Tuto de création d’un Custom Engine  Agent    | https://learn.microsoft.com/microsoftteams/platform/teams-ai-library-tutorial     https://learn.microsoft.com/microsoftteams/platform/sbs-teams-ai |
+| 🛠️    | Tuto de création d’un Custom Engine  Agent    | https://learn.microsoft.com/microsoftteams/platform/teams-ai-library-tutorial<br />https://learn.microsoft.com/microsoftteams/platform/sbs-teams-ai |
 | 🧑‍💻   | Hands on Lab Créer un DA pour M365  Copilot   | https://github.com/microsoft/MCAPSTechConnect25-lab-910      |
 | 🧑‍💻   | Hands on Lab Créer un CEA pour M365  Copilot  | https://github.com/microsoft/MCAPSTechConnect25-lab-911      |
+| 🔌    | Hands on Lab Créer un plugin API pour un DA   | https://learn.microsoft.com/training/modules/copilot-declarative-agent-action-api-plugin-vsc/ |
 
 ---
 
