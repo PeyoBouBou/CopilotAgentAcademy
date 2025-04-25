@@ -58,12 +58,13 @@
 
 ### Monter en compétences sur Microsoft Copilot Studio
 
-|      | Description 📄                                          | Lien 🔗                                                       |
-| ---- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| 🛠️    | Build and extend agents with  Microsoft Copilot Studio | https://aka.ms/wrk530                                        |
-| 🧑‍💻   | Microsoft Copilot Studio  Hands-On Workshop            | https://aka.ms/CopilotStudioWorkshop                         |
-| 🧑‍💻   | Copilot Studio in a Day                                | https://powerplatform.microsoft.com/instructor-led-training/ |
-| 📚    | Microsoft Power Platform Resources                     | https://aka.ms/PowerPlatform/Resources                       |
+|      | Description 📄                                          | Lien 🔗                                                      |
+| ---- | ------------------------------------------------------- | ------------------------------------------------------------- |
+| 🛠️   | Build and extend agents with  Microsoft Copilot Studio | https://aka.ms/wrk530                                          |
+| 😻   | Power Cat Webinar Series                                | https://microsoft.github.io/powercat/programs/ai-webinar.html |
+| 🧑‍💻   | Microsoft Copilot Studio  Hands-On Workshop             | https://aka.ms/CopilotStudioWorkshop                          |
+| 🧑‍💻   | Copilot Studio in a Day                                 | https://powerplatform.microsoft.com/instructor-led-training/  |
+| 📚   | Microsoft Power Platform Resources                     | https://aka.ms/PowerPlatform/Resources                         |
 
 ### Outils pour implémenter
 
