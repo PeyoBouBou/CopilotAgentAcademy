@@ -10,6 +10,16 @@
 
 ---
 
+## Sessions Microsoft 365 Copilot & Agents
+|      | Description 📄                      | Lien 🔗                                                   |
+| ---- | ----------------------------------- | ---------------------------------------------------------- |
+| 🖋️  | Inscription                         | https://aka.ms/gpsfrance/partnercopilot/inscription        |
+| 📼  | Vidéos                              | https://aka.ms/gpsfrance/partnercopilot/video              |
+| 🚀  | Lien Ms Teams                       | https://aka.ms/gpsfrance/partnercopilot/meeting            |
+| ⁉️  | Poser une question                  | https://aka.ms/gpsfrance/partnercopilot/question           |
+
+---
+
 ## M365 Copilot / M365 Copilot Chat 
 
 ### Présenter M365 Copilot & M365 Copilot Chat
@@ -70,7 +80,7 @@
 
 |      | Description 📄                       | Lien 🔗                                                    |
 | ---- | ----------------------------------- | --------------------------------------------------------- |
-| 🦮    | Copilot Studio Implementation Guide | https://aka.ms/CopilotStudioImplementationGuide           |
+| 🦮    | Copilot Studio Implementation Guide | https://aka.ms/CopilotStudioImplementationGuide <br> https://aka.ms/mcsig         |
 | 🧪    | Try Copilot Studio                  | https://aka.ms/TryCopilotStudio                           |
 | 🛠️    | Power CAT Copilot Studio Kit        | https://aka.ms/CopilotStudioKit                           |
 | 📂    | Microsoft Copilot Studio Samples    | http://aka.ms/CopilotStudioSamples                        |
