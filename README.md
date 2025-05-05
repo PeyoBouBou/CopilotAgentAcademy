@@ -3,7 +3,7 @@
 🔗 https://aka.ms/CopilotAgentAcademy
 
 ## Sommaire
-- [resources du Webinar](#resources-du-webinar)
+- [Resources du Webinar](#resources-du-webinar)
 - [M365 Copilot / M365 Copilot Chat](#m365-copilot--m365-copilot-chat)
 - [Microsoft Copilot Studio](#microsoft-copilot-studio)
 - [Teams Toolkit & Teams AI Library](#teams-toolkit--teams-ai-library)
