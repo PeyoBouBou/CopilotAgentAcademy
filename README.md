@@ -3,6 +3,7 @@
 🔗 https://aka.ms/CopilotAgentAcademy
 
 ## Sommaire
+- [resources du Webinar](#resources-du-webinar)
 - [M365 Copilot / M365 Copilot Chat](#m365-copilot--m365-copilot-chat)
 - [Microsoft Copilot Studio](#microsoft-copilot-studio)
 - [Teams Toolkit & Teams AI Library](#teams-toolkit--teams-ai-library)
@@ -19,7 +20,12 @@
 | ⁉️  | Poser une question                  | https://aka.ms/gpsfrance/partnercopilot/question           |
 
 ---
+## Resources du Webinar
+|      | Description 📄                      | Lien 🔗                                                       |
+| ---- | ---------------------------------- | ------------------------------------------------------------ |
+| 📢    | Shéma architecture de M365 Copilot / M365 Copilot Chat + Agents | [Les shémas](schemas/Copilot_Agent-Architecture/readme.md) |
 
+---
 ## M365 Copilot / M365 Copilot Chat 
 
 ### Présenter M365 Copilot & M365 Copilot Chat

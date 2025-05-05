@@ -1,4 +1,5 @@
 # Copilot + Agent - Architecture
+[Home](../../README.md)
 [TOC]
 
 ## M365 Copilot
