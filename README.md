@@ -64,13 +64,14 @@
 
 ### Présenter Microsoft Copilot Studio 
 
-|      | Description 📄            | Lien 🔗                                                       |
-| ---- | ------------------------ | ------------------------------------------------------------ |
-| 📢    | Annonces                 | https://www.microsoft.com/microsoft-copilot/blog/copilot-studio |
-| 👩‍🏫   | Supports de présentation | https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio |
-| 🗺️    | Roadmap Copilot Studio   | https://releaseplans.microsoft.com/?app=Microsoft+Copilot+Studio |
-| 💰    | Pricing tools            | https://learn.microsoft.com/microsoft-copilot-studio/requirements-messages-management |
-| 📖    | Pricing Guide            | *Messages* : <br> - https://learn.microsoft.com/microsoft-copilot-studio/billing-licensing <br> - https://go.microsoft.com/fwlink/?linkid=2085130 <br> *PAYG* : https://azure.microsoft.com/pricing/details/copilot-studio |
+|      | Description 📄                        | Lien 🔗                                                       |
+| ---- | ------------------------------------ | ------------------------------------------------------------ |
+| 📢    | Annonces                             | https://www.microsoft.com/microsoft-copilot/blog/copilot-studio |
+| 👩‍🏫   | Supports de présentation             | https://powerplatformpartners.transform.microsoft.com/gtm/lowcode/copilot-studio |
+| 🗺️    | Roadmap Copilot Studio               | https://releaseplans.microsoft.com/?app=Microsoft+Copilot+Studio |
+| 💰    | Pricing tools MCS                    | https://learn.microsoft.com/microsoft-copilot-studio/requirements-messages-management |
+| 🧮    | Copilot Studio agent usage estimator | https://microsoft.github.io/copilot-studio-estimator/        |
+| 📖    | Pricing Guide                        | *Messages* : <br> - https://learn.microsoft.com/microsoft-copilot-studio/billing-licensing <br> - https://go.microsoft.com/fwlink/?linkid=2085130 <br> *PAYG* : https://azure.microsoft.com/pricing/details/copilot-studio |
 
 ### Monter en compétences sur Microsoft Copilot Studio
 
@@ -81,17 +82,20 @@
 | 🧑‍💻   | Microsoft Copilot Studio  Hands-On Workshop             | https://aka.ms/CopilotStudioWorkshop                          |
 | 🧑‍💻   | Copilot Studio in a Day                                 | https://powerplatform.microsoft.com/instructor-led-training/  |
 | 📚   | Microsoft Power Platform Resources                     | https://aka.ms/PowerPlatform/Resources                         |
+| ⚙️ | Copilot Studio for Power Platform Makers | https://youtube.com/playlist?list=PLi9EhCY4z99XR9Me1e4LZTF-YsnklmEsa&si=wxR2ST7pJbVdjlK9 |
+| 🧪 | Microsoft Copilot Studio ❤️ MCP | https://github.com/microsoft/mcsmcp |
 
 ### Outils pour implémenter
 
-|      | Description 📄                       | Lien 🔗                                                    |
-| ---- | ----------------------------------- | --------------------------------------------------------- |
-| 🦮    | Copilot Studio Implementation Guide | https://aka.ms/CopilotStudioImplementationGuide <br> https://aka.ms/mcsig         |
-| 🧪    | Try Copilot Studio                  | https://aka.ms/TryCopilotStudio                           |
-| 🛠️    | Power CAT Copilot Studio Kit        | https://aka.ms/CopilotStudioKit                           |
-| 📂    | Microsoft Copilot Studio Samples    | http://aka.ms/CopilotStudioSamples                        |
-| 🛠️    | Environnement de développement      | https://aka.ms/M365DevPlan / https://youtu.be/NDeYE-qE9Qs |
-| 🔌    | Les connecteurs Power Platform      | https://aka.ms/ppc                                        |
+|      | Description 📄                       | Lien 🔗                                                       |
+| ---- | ----------------------------------- | ------------------------------------------------------------ |
+| 🦮    | Copilot Studio Implementation Guide | https://aka.ms/CopilotStudioImplementationGuide <br> https://aka.ms/mcsig |
+| 🧪    | Try Copilot Studio                  | https://aka.ms/TryCopilotStudio                              |
+| 🛠️    | Power CAT Copilot Studio Kit        | https://aka.ms/CopilotStudioKit                              |
+| 📂    | Microsoft Copilot Studio Samples    | http://aka.ms/CopilotStudioSamples                           |
+| 🛠️    | Environnement de développement      | https://aka.ms/M365DevPlan / https://youtu.be/NDeYE-qE9Qs    |
+| 🔌    | Les connecteurs Power Platform      | https://aka.ms/ppc                                           |
+| 📖    | Microsoft Bibliothèque de scénarios | https://adoption.microsoft.com/ai-agents/copilot-studio/#scenarios<br />https://adoption.microsoft.com/scenario-library/ |
 
 ### Et des icones pour faire de beaux schémas
 
