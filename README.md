@@ -6,7 +6,7 @@
 - [Resources du Webinar](#resources-du-webinar)
 - [M365 Copilot / M365 Copilot Chat](#m365-copilot--m365-copilot-chat)
 - [Microsoft Copilot Studio](#microsoft-copilot-studio)
-- [Teams Toolkit & Teams AI Library](#teams-toolkit--teams-ai-library)
+- [Microsoft 365 Agents Toolkit & Teams AI Library](#Microsoft 365 Agents Toolkit--teams-ai-library)
 - [Azure AI Foundry](#azure-ai-foundry)
 
 ---
@@ -21,9 +21,9 @@
 
 ---
 ## Resources du Webinar
-|      | Description 📄                      | Lien 🔗                                                       |
-| ---- | ---------------------------------- | ------------------------------------------------------------ |
-| 📢    | Shéma architecture de M365 Copilot / M365 Copilot Chat + Agents | [Les shémas](schemas/Copilot_Agent-Architecture/readme.md) |
+|      | Description 📄                                                | Lien 🔗                                                     |
+| ---- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| 📢    | Schéma architecture de M365 Copilot / M365 Copilot Chat + Agents | [Les shémas](schemas/Copilot_Agent-Architecture/readme.md) |
 
 ---
 ## M365 Copilot / M365 Copilot Chat 
@@ -83,7 +83,7 @@
 | 🧑‍💻   | Copilot Studio in a Day                                 | https://powerplatform.microsoft.com/instructor-led-training/  |
 | 📚   | Microsoft Power Platform Resources                     | https://aka.ms/PowerPlatform/Resources                         |
 | ⚙️ | Copilot Studio for Power Platform Makers | https://youtube.com/playlist?list=PLi9EhCY4z99XR9Me1e4LZTF-YsnklmEsa&si=wxR2ST7pJbVdjlK9 |
-| 🧪 | Microsoft Copilot Studio ❤️ MCP | https://github.com/microsoft/mcsmcp |
+| 🧪 | Microsoft Copilot Studio ❤️ MCP | https://aka.ms/mcsmcplab |
 
 ### Outils pour implémenter
 
@@ -109,7 +109,7 @@
 
 ---
 
-## Teams Toolkit & Teams AI Library 
+## Microsoft 365 Agents Toolkit & Teams AI Library 
 
 ### Monter en compétences sur Teams Toolkit
 
@@ -119,8 +119,9 @@
 | 📹    | Vidéos Microsoft 365 Copilot: Developer  Camp | [https://www.youtube.com/watch](https://www.youtube.com/watch?v=36ksodlm8_w&list=PLWZJrkeLOrbZDoRR9ZPD4huD7EzKKyDjg)[?](https://www.youtube.com/watch?v=36ksodlm8_w&list=PLWZJrkeLOrbZDoRR9ZPD4huD7EzKKyDjg)[l](https://www.youtube.com/watch?v=36ksodlm8_w&list=PLWZJrkeLOrbZDoRR9ZPD4huD7EzKKyDjg)[ist](https://www.youtube.com/watch?v=36ksodlm8_w&list=PLWZJrkeLOrbZDoRR9ZPD4huD7EzKKyDjg)[=PLWZJrkeLOrbZDoRR9ZPD4huD7EzKKyDjg](https://www.youtube.com/watch?v=36ksodlm8_w&list=PLWZJrkeLOrbZDoRR9ZPD4huD7EzKKyDjg) |
 | 📹    | Créer un agent avec Teams Toolkit             | https://youtu.be/d6qaUS8UIAY                                 |
 | 🧰    | Copilot Developer Camp                        | https://aka.ms/copilot-camp                                  |
+| 📀    | Repo officiel de Microsoft 365 Agents Toolkit | https://github.com/OfficeDev/microsoft-365-agents-toolkit    |
 
-### Développer avec Teams Toolkit & Teams AI Library 
+### Développer avec Microsoft 365 Agents Toolkit & Teams AI Library 
 
 |      | Description 📄                                 | Lien 🔗                                                       |
 | ---- | --------------------------------------------- | ------------------------------------------------------------ |
