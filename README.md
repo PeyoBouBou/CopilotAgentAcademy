@@ -84,6 +84,7 @@
 | 📚   | Microsoft Power Platform Resources                     | https://aka.ms/PowerPlatform/Resources                         |
 | ⚙️ | Copilot Studio for Power Platform Makers | https://youtube.com/playlist?list=PLi9EhCY4z99XR9Me1e4LZTF-YsnklmEsa&si=wxR2ST7pJbVdjlK9 |
 | 🧪 | Microsoft Copilot Studio ❤️ MCP | https://aka.ms/mcsmcplab |
+| 🧫 | Copilot Studio Agent Academy | http://aka.ms/agent-academy |
 
 ### Outils pour implémenter
 
