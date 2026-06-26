@@ -1,5 +1,7 @@
 # Microsoft 365 Copilot & Agents <BR> *Ressources pour les partenaires*
 
+Dernière mise à jour : 26/06/2026
+
 🔗 https://aka.ms/CopilotAgentAcademy
 
 ## Sommaire
